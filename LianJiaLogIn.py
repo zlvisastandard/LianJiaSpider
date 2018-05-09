@@ -2,6 +2,7 @@
 """
 @author: 冰蓝
 @site: http://lanbing510.info
+终于搞好了
 """
 
 import urllib
